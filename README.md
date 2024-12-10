@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @mehertilak
 - 👀 I’m interested in Machine Learning...
-- 🌱 I’m currently learning fullstack web development
-- 💞️ I’m looking to collaborate on ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING
-- 📫 YOU CAN DM ME ON INSTAGRAM @imthee_t
+- 💞️ I’m looking to collaborate on ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING.
  
 
 <!---
